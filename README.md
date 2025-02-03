@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ujjwal-Source
 # Hi there! I'm Ujjwal 👋
 
-🚀 **Full-Stack Developer | AI Enthusiast | Problem Solver**
+🚀 **Full-Stack Developer | Android Devloper| AI Enthusiast | Problem Solver**
 
 I'm a passionate **Computer Science Engineering** student dedicated to building innovative solutions. From **admission counseling AI CallBots** to **freelancing platforms** and **PhoneDiagnosis apps**, I love transforming ideas into reality with technology. 
 
@@ -12,12 +12,12 @@ I'm a passionate **Computer Science Engineering** student dedicated to building 
 ## 🚀 About Me
 
 - 🎓 Pursuing **B.Tech in Computer Science**
-- 💡 Passionate about **AI, Web Development, and Cloud Computing**
+- 💡 Passionate about **AI, Web Development, Android Devlopment, and Cloud Computing**
 - 🛠️ Currently working on **PhoneDiagnosis** and a **Freelancing Platform**
 - 🤝 Looking to collaborate on **Open Source and AI-driven Projects**
 - 💬 Ask me about **React, Node.js, Python, and AI**
-- 📫 Reach me at: **[Your Email] | [LinkedIn] | [Twitter]**
-- 🎮 I love playing chess and exploring new tech trends!
+- 📫 Reach me at: **[ujjwalkumartiwarikumartiwari@gmail.com] | [www.linkedin.com/in/ujjwal-dev] | [Twitter]**
+- 🎮 I love playing Video games, Cricket, chess and exploring new tech trends!
 
 ---
 
@@ -58,7 +58,7 @@ I'm a passionate **Computer Science Engineering** student dedicated to building 
 
 ---
 
-## 🎵 Now Playing on Spotify
+## 🎵 Now Playing on 
 
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
 
